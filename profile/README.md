@@ -17,10 +17,11 @@ Some of the intended resilience mechanisms are:
 - 💾 **Cache**: Memorizes a successful result;
 - 🛟 **Fallback**: Defines an alternative value to be returned or action to be executed on failure.
 
-### Resilience Types
+### Resilience Types 🔖
 
--⚡ **Reactive**: Mitigates impact from failures
--🛡️ **Proactive**: Prevents failures from happening
+The resilience mechanisms can be divided in two categories, based on where they execute:
+- ⚡**Reactive**: Mitigates impact from failures (after);
+- 🛡️**Proactive**: Prevents failures from happening (before).
 
 ### Repositories 📁
 

@@ -22,3 +22,7 @@ Some of the intended resilience mechanisms are:
 The resilience mechanisms can be divided in two categories, based on where they execute:
 - ⚡**Reactive**: Mitigates impact from failures (after);
 - 🛡️**Proactive**: Prevents failures from happening (before).
+
+> [!NOTE]  
+> This project began as a BSc degree thesis and is supported by detailed academic documentation. The project's design and implementation were guided by extensive research and formal proposals. You can explore the [report](https://github.com/kresil/project-documentation/blob/main/project-report/out/main.pdf) or browse all related documents [here](https://github.com/kresil/project-documentation?tab=readme-ov-file#documents).
+
